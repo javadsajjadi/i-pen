@@ -4281,10 +4281,12 @@ ul:not([class*='menu']) li > a:hover {
 ol {
   list-style: arabic-indic;
     font-size: medium;
+	margin-right: 39px;
+}
 }
 ol li:not(:last-child) {
   margin-bottom: 1.1428571400000003px;
-  margin-right: 42px;
+ 
 }
 ol.lead li:not(:last-child) {
   margin-bottom: 1.26315789473684em;
